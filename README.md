@@ -1,4 +1,4 @@
-# ML-Structued_Class_Blind_Pruning (Work under-progress = Structuring the code!)
+# ML-Structued_Class_Blind_Pruning
 
 This repo implements the pruning experiments of the structured class blind pruning paper on AlexNet and ResNet-50 on ImageNet 
 
@@ -15,3 +15,5 @@ To train a model, run `ImageNet_classblind_AlexNet.py` or `ImageNet_classblind_R
 ```bash
 python ImageNet_classblind_AlexNet.py
 ```
+
+This repo is still a work under-progress = Structuring the code!
